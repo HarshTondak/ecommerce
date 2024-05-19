@@ -6,9 +6,9 @@ Create an e-commerce banner and list products using React JS/NEXT JS. It is a sm
 
 - Users should be able to search for the products.
 
-- Search/Filtered results should also be shown in the same manner. dates.
+- Search/Filtered results should also be shown in the same manner.
 
-- Responsive and functional design.
+- User should be able to add products into its cart, and the cart should be updated automatically.
 
 ## Solution
 
