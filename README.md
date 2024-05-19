@@ -1,4 +1,4 @@
-# ERP System with React
+# E-commerce Frontend Website with React
 
 Create an e-commerce banner and list products using React JS/NEXT JS. It is a small web page that we want you to code and try to make it responsive, along with some functionalities. The system will consist of the following functionalities:
 
